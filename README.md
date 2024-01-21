@@ -22,5 +22,5 @@ Running the Application:
 2. Run the following command to install the dependencies:
 ``` npm install ```
 3. Run the following command to start the application:
-``` npm start ```
-The application will run on port 3000. Open your browser and navigate to http://localhost:3000 to play the game.
+``` npm run dev ```
+The application will run on port 5173. Open your browser and navigate to http://localhost:5173 to play the game.
