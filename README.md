@@ -15,7 +15,7 @@ How to Use:
 Downloading the Code:
 
 1. Clone this repository to your computer using the following command:
-``` git clone https://github.com/[username]/tic-tac-toe ```
+``` https://github.com/rizkyromadhon/tic-tac-toe.git ```
 2. Alternatively, you can download the ZIP file from this repository.
 Running the Application:
 1. Open the project folder in your terminal.
